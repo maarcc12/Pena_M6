@@ -1,10 +1,47 @@
 h1{
     background-color: #00ffff;
+    
 }
 
-h2{
-    background-color: rgb(197, 255, 127);
-}
+
 h3{
-    background-color:black;
+ margin: 30px;
+}
+
+body{
+    background-color: #75bbbb;
+    
+}
+
+
+
+.div1{
+    width:30%;
+    height: 40rem;
+    background-color: rgb(95, 151, 151);
+    float: left;
+}
+
+.div1 p{
+    margin: 30px;
+}
+
+
+.div2{
+    width:70%;
+    height: 40rem;
+    background-color: rgb(180, 193, 193);
+    overflow:auto;
+}
+
+.div2 h2{
+    text-align: right;
+    padding-right: 60px;
+    padding-top: 25px;
+}
+
+
+a {
+    text-decoration: none; 
+    color: inherit;       
 }

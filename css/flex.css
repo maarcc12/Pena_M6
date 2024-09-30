@@ -1,0 +1,46 @@
+.flex-container {
+    display: flex;
+  }
+  
+  .flex-container > div {
+    padding: 20px;
+    font-size: 30px;
+    width: 50%;
+    text-align: center;
+    }
+    
+  #head1 {
+  width: 100%;
+  background-color: dodgerBlue;
+  text-align: center;
+  margin-bottom: -23px;
+  }
+  
+  #footer1 {
+  width: 100%;
+  background-color: purple;
+  text-align: center;
+  margin-top: -21px;
+  
+  }
+  
+  #dreta{
+  background-color: orange;
+  }
+  
+  #esquerra{
+  background-color: red;
+  }
+  
+  #a{
+  background-color: rgba(255, 0, 0, 0.2);
+  }
+  
+  #b{
+  background-color: rgba(255, 0, 0, 0.4);
+  }
+  
+  #c{
+  background-color: rgba(255, 0, 0, 0.6);
+  }
+  
