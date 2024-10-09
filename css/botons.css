@@ -1,7 +1,7 @@
 .button {
     display: inline-block;
     border-radius: 4px;
-    background-color: #449c8c;
+    background-color: #196557;
     border: none;
     color: #FFFFFF;
     text-align: center;
@@ -10,7 +10,8 @@
     width: 200px;
     transition: all 0.5s;
     cursor: pointer;
-    margin: 15px;
+    margin-left: 110px;
+    margin-top: 10px;
   }
   
   .button span {

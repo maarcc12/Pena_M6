@@ -1,5 +1,5 @@
 h1{
-    background-color: #00ffff;
+    margin-left: 40px;
     
 }
 
@@ -44,4 +44,25 @@ body{
 a {
     text-decoration: none; 
     color: inherit;       
+}
+
+
+@media only screen and (max-width: 600px) {
+  .example {background: red;}
+}
+
+@media only screen and (min-width: 600px) {
+  .example {background: green;}
+}
+
+@media only screen and (min-width: 768px) {
+  .example {background: blue;}
+} 
+
+@media only screen and (min-width: 992px) {
+  .example {background: orange;}
+} 
+
+@media only screen and (min-width: 1200px) {
+  .example {background: pink;}
 }
